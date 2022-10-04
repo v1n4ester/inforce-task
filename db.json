@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://icf.listex.info/med/7c8a6f54-7753-87d2-b5cb-cab8709c4871.jpg",
+      "name": "Milk",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://assets.bonappetit.com/photos/5c62e4a3e81bbf522a9579ce/5:4/w_2815,h_2252,c_limit/milk-bread.jpg",
+      "name": "Bread",
+      "count": "4gsg",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://img3.zakaz.ua/upload.version_1.0.9bb2cff1d4a24cbbe81c87dc519553bf.1350x1350.jpeg",
+      "name": "Bananahdfhfd",
+      "count": "4ddf",
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "20fgdg0g"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.santosfood.com/wp-content/uploads/2020/01/img-7.jpg",
+      "name": "Orange",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://i5.walmartimages.ca/images/Enlarge/008/475/6000190008475.jpg",
+      "name": "Tomato",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://brandbar.ua/wp-content/uploads/2020/12/11.jpg",
+      "name": "Ballantines",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://hotline.ua/img/tx/339/3398155195.jpg",
+      "name": "Jameson",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://winetime.com.ua/uploads/symlink/44000-45000/1560156676_48969.jpg",
+      "name": "Hennessy",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "description": "some text here",
+      "date": "14:00 22.08.2021"
+    }
+  ]
+}
